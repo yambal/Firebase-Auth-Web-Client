@@ -1,0 +1,16 @@
+{
+  "name": "firebase_web_client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "June YAMAMOTO <jy@yambal.net> (https://www.yambal.net/)",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.0.0",
+    "flux": "^3.1.3",
+    "object-assign": "^4.1.1"
+  }
+}
